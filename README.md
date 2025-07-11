@@ -35,6 +35,6 @@ Aby dodatek mógł uzyskać dostęp do Twojego interfejsu HA:
 4. Po starcie uruchamia się serwer HTTP na porcie 10000.
 
 Teraz według dokumentacji wklej link w przeglądarke 
-    ```bash
+    ```
     http://adresHA:10000/lovelace/0?viewport=1000x1000
     ```
