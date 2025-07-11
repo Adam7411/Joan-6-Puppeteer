@@ -36,5 +36,5 @@ Aby dodatek mógł uzyskać dostęp do Twojego interfejsu HA:
 
 Teraz według dokumentacji wklej link w przeglądarke 
     ```bash
-    [docker compose up -d](http://adresHA:10000/lovelace/0?viewport=1000x1000 )
+    http://adresHA:10000/lovelace/0?viewport=1000x1000
     ```
