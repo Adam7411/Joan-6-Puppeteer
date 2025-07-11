@@ -41,9 +41,10 @@ Aby dodatek mógł uzyskać dostęp do Twojego interfejsu HA:
     http://TWÓJadresHA:10000/lovelace/0?viewport=1000x1000
     ```
 6.  Skopiuj ten adres URL.
-7.  Wróć do panelu **Visionect Software Suite**, przejdź do ustawień swojego tabletu i w polu **Default URL** wklej skopiowany adres dashboardu. Zapisz zmiany.
-    ![image](https://github.com/user-attachments/assets/00558b5d-ad93-44ab-b4f0-ae8e9b1be20f)
-8. Po chwili na ekranie tabletu powinien pojawić się twój dashboard z Home Assistant. ustaw odświeżanie (`Refresh rate`) np. na 20 sekund
+7.  Wróć do panelu **Visionect Software Suite**, przejdź do ustawień swojego tabletu i w polu **Display web page** wklej skopiowany adres dashboardu. Zapisz zmiany.
+    <img width="1634" height="701" alt="Bez tytułu" src="https://github.com/user-attachments/assets/9f5f3654-e330-4979-b16a-4193b0567983" />
+
+8. Po chwili na ekranie tabletu powinien pojawić się twój dashboard z Home Assistant. ustaw odświeżanie  Enable automatic content refresh  np. na 20 sekund
 
 
 
