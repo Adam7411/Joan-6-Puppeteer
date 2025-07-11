@@ -27,7 +27,7 @@ Aby dodatek mógł uzyskać dostęp do Twojego interfejsu HA:
 
 ## ⚙️ Konfiguracja dodatku
 
-1. Otwórz konfiguracja dodatku `puppet`.
+1. Otwórz konfiguracje dodatku `puppet`.
 2. Wklej swój **long-lived token** do pola `token`.
 3. Zapisz ustawienia i **uruchom** dodatek.
    <img width="1441" height="695" alt="2t" src="https://github.com/user-attachments/assets/665bcba9-b23c-49d9-a99b-dc31560f0c0b" />
