@@ -56,7 +56,9 @@ Aby dodatek mógł uzyskać dostęp do Twojego interfejsu HA:
 <img width="556" height="706" alt="image" src="https://github.com/user-attachments/assets/723693a6-b6f6-4588-b969-d10067fdbd75" />
 
 
-<img width="1310" height="733" alt="image" src="https://github.com/user-attachments/assets/a967f501-5b6c-44e6-a4ea-ed069314b9fb" />
+Szybkie wyjaśnienie
+<img width="1318" height="818" alt="image" src="https://github.com/user-attachments/assets/9a684f11-56ac-40b1-b1d7-6d0152e03d38" />
+
 
   ```
   http://adresHA:10000/lovelace/joan/0?viewport=800x1000)
