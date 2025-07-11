@@ -38,7 +38,7 @@ Aby dodatek mógł uzyskać dostęp do Twojego interfejsu HA:
 
 5. Teraz według dokumentacji wklej link w przeglądarke zobaczysz strone z HA
     ```
-    http://adresHA:10000/lovelace/0?viewport=1000x1000
+    http://TWÓJadresHA:10000/lovelace/0?viewport=1000x1000
     ```
 6.  Skopiuj ten adres URL.
 7.  Wróć do panelu **Visionect Software Suite**, przejdź do ustawień swojego tabletu i w polu **Default URL** wklej skopiowany adres dashboardu. Zapisz zmiany.
