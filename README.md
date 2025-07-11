@@ -3,7 +3,7 @@
 Na urządzeniu Joan 6 można wyświetlić obraz dashboardu Home Assistant używając niestandardowego dodatku **Puppeteer**.  
 Dodatek działa jako serwer HTTP, który generuje zrzuty ekranu (screenshots) z interfejsu Home Assistant.  
 
-> ❗ Uwaga: Puppeteer umożliwia **tylko podgląd** – nie obsługuje dotykowych przycisków ani interakcji. Jest to ogromny minus ale może się komuś przyda do podglądu temperatur czy też wykresów.
+> ❗ Uwaga: Puppeteer umożliwia **tylko podgląd** – nie obsługuje dotykowych przycisków ani interakcji. Jest to ogromny minus ale może się komuś przyda tylko do podglądu temperatur czy też wykresów.
 
 <img width="553" height="570" alt="jak na tabytułu" src="https://github.com/user-attachments/assets/e38bb6be-86b4-492f-a1b7-013b5965703d" />
 
