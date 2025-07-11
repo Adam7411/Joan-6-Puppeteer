@@ -36,7 +36,7 @@ Aby dodatek mógł uzyskać dostęp do Twojego interfejsu HA:
 
 4. Po starcie uruchamia się serwer HTTP na porcie 10000.
 
-5. Teraz według dokumentacji wklej link w przeglądarke zobaczysz strone z HA
+5. Teraz według dokumentacji wklej link w przeglądarke zobaczysz strone z HA 
     ```
     http://TWÓJadresHA:10000/lovelace/0?viewport=1000x1000
     ```
@@ -53,7 +53,16 @@ Aby dodatek mógł uzyskać dostęp do Twojego interfejsu HA:
   http://adresHA:10000/calendar/0?viewport=800x1000
   ```
 
+<img width="556" height="706" alt="image" src="https://github.com/user-attachments/assets/723693a6-b6f6-4588-b969-d10067fdbd75" />
 
 
+<img width="1310" height="733" alt="image" src="https://github.com/user-attachments/assets/a967f501-5b6c-44e6-a4ea-ed069314b9fb" />
 
+  ```
+  http://adresHA:10000/lovelace/joan/0?viewport=800x1000)
+  ```
+
+<img width="553" height="570" alt="jak na tabytułu" src="https://github.com/user-attachments/assets/e38bb6be-86b4-492f-a1b7-013b5965703d" />
+
+Reszta w dokumentacji https://github.com/balloob/home-assistant-addons/blob/main/puppet/README.md
     
