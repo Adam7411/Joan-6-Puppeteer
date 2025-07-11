@@ -33,3 +33,8 @@ Aby dodatek mógł uzyskać dostęp do Twojego interfejsu HA:
    <img width="1441" height="695" alt="2t" src="https://github.com/user-attachments/assets/665bcba9-b23c-49d9-a99b-dc31560f0c0b" />
 
 4. Po starcie uruchamia się serwer HTTP na porcie 10000.
+
+Teraz według dokumentacji wklej link w przeglądarke 
+    ```bash
+    [docker compose up -d](http://adresHA:10000/lovelace/0?viewport=1000x1000 )
+    ```
