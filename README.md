@@ -40,7 +40,7 @@ Aby dodatek mógł uzyskać dostęp do Twojego interfejsu HA:
     ```
     http://TWÓJadresHA:10000/lovelace/0?viewport=1000x1000
     ```
-6.  Skopiuj ten adres URL.
+6.  Skopiuj ten adres URL ze swoim adresem HA
 7.  Wróć do panelu **Visionect Software Suite**, przejdź do ustawień swojego tabletu  
     <img width="1634" height="701" alt="Bez tytułu" src="https://github.com/user-attachments/assets/9f5f3654-e330-4979-b16a-4193b0567983" />
 
