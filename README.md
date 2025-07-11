@@ -57,7 +57,8 @@ Aby dodatek mógł uzyskać dostęp do Twojego interfejsu HA:
 
 
 Szybkie wyjaśnienie
-<img width="1318" height="818" alt="image" src="https://github.com/user-attachments/assets/9a684f11-56ac-40b1-b1d7-6d0152e03d38" />
+<img width="1288" height="801" alt="image" src="https://github.com/user-attachments/assets/03db48fa-1cc1-40e5-a782-bb8ecf2af6a2" />
+
 
 
   ```
