@@ -3,7 +3,9 @@
 Na urządzeniu Joan 6 można wyświetlić obraz dashboardu Home Assistant używając niestandardowego dodatku **Puppeteer**.  
 Dodatek działa jako serwer HTTP, który generuje zrzuty ekranu (screenshots) z interfejsu Home Assistant.  
 
-> ❗ Uwaga: Puppeteer umożliwia **tylko podgląd** – nie obsługuje dotykowych przycisków ani interakcji.
+> ❗ Uwaga: Puppeteer umożliwia **tylko podgląd** – nie obsługuje dotykowych przycisków ani interakcji. Jest to ogromny minus ale może się komuś przyda do podglądu temperatur czy też wykresów.
+
+<img width="553" height="570" alt="jak na tabytułu" src="https://github.com/user-attachments/assets/e38bb6be-86b4-492f-a1b7-013b5965703d" />
 
 
 
@@ -42,8 +44,6 @@ Aby dodatek mógł uzyskać dostęp do Twojego interfejsu HA:
 7.  Wróć do panelu **Visionect Software Suite**, przejdź do ustawień swojego tabletu i w polu **Default URL** wklej skopiowany adres dashboardu. Zapisz zmiany.
     ![image](https://github.com/user-attachments/assets/00558b5d-ad93-44ab-b4f0-ae8e9b1be20f)
 8. Po chwili na ekranie tabletu powinien pojawić się twój dashboard z Home Assistant. ustaw odświeżanie (`Refresh rate`) np. na 20 sekund
-Przykład co wyświetli na tablecie:
-<img width="553" height="570" alt="jak na tabytułu" src="https://github.com/user-attachments/assets/e12c7a63-f621-475e-91f7-f899c370815f" />
 
 
 
