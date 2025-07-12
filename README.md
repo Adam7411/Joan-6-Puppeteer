@@ -66,7 +66,12 @@ Szybkie wyjaśnienie
   ```
 
 <img width="553" height="570" alt="jak na tabytułu" src="https://github.com/user-attachments/assets/e38bb6be-86b4-492f-a1b7-013b5965703d" />
+
+   Przykład czarno biały 
    
     http://adresHA:10000/lovelace/joan?viewport=758x1024&eink=2&format=png&wait=3000 
+    
+    <img width="758" height="1024" alt="image" src="https://github.com/user-attachments/assets/63032465-4f7a-4356-95d1-e795b23d3fab" />
+
 Reszta w dokumentacji https://github.com/balloob/home-assistant-addons/blob/main/puppet/README.md
 
