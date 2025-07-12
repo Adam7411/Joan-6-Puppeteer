@@ -70,8 +70,10 @@ Szybkie wyjaśnienie
    Przykład czarno biały 
    
     http://adresHA:10000/lovelace/joan?viewport=758x1024&eink=2&format=png&wait=3000 
-    
-    <img width="758" height="1024" alt="image" src="https://github.com/user-attachments/assets/63032465-4f7a-4356-95d1-e795b23d3fab" />
+
+
+
+<img width="758" height="1024" alt="image" src="https://github.com/user-attachments/assets/4b702780-bd7f-4573-9658-05d21beb446f" />
 
 Reszta w dokumentacji https://github.com/balloob/home-assistant-addons/blob/main/puppet/README.md
 
