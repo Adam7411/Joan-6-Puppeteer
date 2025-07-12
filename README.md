@@ -67,6 +67,7 @@ Szybkie wyjaśnienie
 
 <img width="553" height="570" alt="jak na tabytułu" src="https://github.com/user-attachments/assets/e38bb6be-86b4-492f-a1b7-013b5965703d" />
 
+____________________________________________________________________________
    Przykład czarno biały 
    
     http://adresHA:10000/lovelace/joan?viewport=758x1024&eink=2&format=png&wait=3000 
